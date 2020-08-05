@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T08:59:24.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="-Hi_gXXmk3xR9r8QLLIS" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T09:03:05.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="09nZx9LEC-AmQaYRPHx3" version="13.5.9" type="github">
   <diagram id="HU-P4IUZ7dDAn_C-CXK9" name="webアプリ">
     <mxGraphModel dx="946" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -377,70 +377,76 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-155" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33001A;fontSize=15;fontColor=#FFFFFF;align=center;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1350" width="130" height="20" as="geometry" />
+          <mxGeometry x="895" y="1400" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-156" value="シフト名" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="795" y="1350" width="80" height="20" as="geometry" />
+          <mxGeometry x="800" y="1400" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-157" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33001A;fontSize=15;fontColor=#FFFFFF;align=center;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1380" width="70" height="20" as="geometry" />
+          <mxGeometry x="895" y="1430" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-158" value="出勤時刻" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="795" y="1380" width="80" height="20" as="geometry" />
+          <mxGeometry x="800" y="1430" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-159" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33001A;fontSize=15;fontColor=#FFFFFF;align=center;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1380" width="70" height="20" as="geometry" />
+          <mxGeometry x="985" y="1430" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-160" value="時" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="955" y="1380" width="30" height="20" as="geometry" />
+          <mxGeometry x="960" y="1430" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-161" value="分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="1047.0900000000001" y="1380" width="30" height="20" as="geometry" />
+          <mxGeometry x="1052.0900000000001" y="1430" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-162" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33001A;fontSize=15;fontColor=#FFFFFF;align=center;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1410" width="70" height="20" as="geometry" />
+          <mxGeometry x="895" y="1460" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-163" value="退勤時刻" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="795" y="1410" width="80" height="20" as="geometry" />
+          <mxGeometry x="800" y="1460" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-164" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33001A;fontSize=15;fontColor=#FFFFFF;align=center;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1410" width="70" height="20" as="geometry" />
+          <mxGeometry x="985" y="1460" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-165" value="時" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="955" y="1410" width="30" height="20" as="geometry" />
+          <mxGeometry x="960" y="1460" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-166" value="分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="1047.0900000000001" y="1410" width="30" height="20" as="geometry" />
+          <mxGeometry x="1052.0900000000001" y="1460" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-167" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33001A;fontSize=15;fontColor=#FFFFFF;align=center;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1440" width="70" height="20" as="geometry" />
+          <mxGeometry x="895" y="1490" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-168" value="休憩時間合計" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1440" width="100" height="20" as="geometry" />
+          <mxGeometry x="785" y="1490" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-169" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33001A;fontSize=15;fontColor=#FFFFFF;align=center;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1440" width="70" height="20" as="geometry" />
+          <mxGeometry x="1005" y="1490" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-170" value="時間" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1440" width="35" height="20" as="geometry" />
+          <mxGeometry x="965" y="1490" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-171" value="分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="1067.0900000000001" y="1440" width="30" height="20" as="geometry" />
+          <mxGeometry x="1072.0900000000001" y="1490" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-172" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33001A;fontSize=15;fontColor=#FFFFFF;align=center;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1470" width="70" height="20" as="geometry" />
+          <mxGeometry x="895" y="1520" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-173" value="深夜休憩時間" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1470" width="100" height="20" as="geometry" />
+          <mxGeometry x="785" y="1520" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-174" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33001A;fontSize=15;fontColor=#FFFFFF;align=center;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1470" width="70" height="20" as="geometry" />
+          <mxGeometry x="1005" y="1520" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-175" value="時間" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1470" width="35" height="20" as="geometry" />
+          <mxGeometry x="965" y="1520" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-176" value="分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="1067.0900000000001" y="1470" width="30" height="20" as="geometry" />
+          <mxGeometry x="1072.0900000000001" y="1520" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q6XPmWuKXVtPRQOwv97A-177" value="シフト内容を変更すると過去の勤怠状況(残業等)にも影響がでます。" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;align=center;fillColor=#EDAE00;strokeColor=none;fontColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1320" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q6XPmWuKXVtPRQOwv97A-178" value="シフト作成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2DB3FF;fontSize=15;align=center;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1350" width="79" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

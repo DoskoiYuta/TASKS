@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T07:58:50.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="4WrgRKL5Ss10zFUSDGea" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T07:59:13.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="zZ8-d4dPrv6Gkp5SDYeh" version="13.5.9" type="github">
   <diagram id="HU-P4IUZ7dDAn_C-CXK9" name="webアプリ">
-    <mxGraphModel dx="3153" dy="2290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,13 +69,10 @@
           <mxGeometry x="39" y="165" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-26" value="打刻一覧" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="214" y="175" width="80" height="20" as="geometry" />
+          <mxGeometry x="299" y="175" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-27" value="シフトセット" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="285" y="175" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="q6XPmWuKXVtPRQOwv97A-28" value="マイページ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="480" y="175" width="90" height="20" as="geometry" />
+          <mxGeometry x="370" y="175" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-31" value="&lt;font color=&quot;#000000&quot;&gt;現在の状態&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="230" y="840" width="90" height="20" as="geometry" />
@@ -622,7 +619,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q6XPmWuKXVtPRQOwv97A-259" value="シフト割当" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="390" y="175" width="90" height="20" as="geometry" />
+          <mxGeometry x="475" y="175" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FfchCcBJmLkpdb2am3XC-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;2020/09&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1757.5" y="845" width="70" height="20" as="geometry" />
